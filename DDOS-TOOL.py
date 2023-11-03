@@ -287,7 +287,7 @@ pkg install python3-pip -y
 pkg install nodejs -y
 pkg install npm -y
 pkg install git -y
-git clone https://github.com/HyuklsBack/KARMA-DDoS
+git clone https://github.com/HyukIsBack/KARMA-DDoS
 cd KARMA-DDoS
 chmod +x *
 pip install -r requirements.txt
